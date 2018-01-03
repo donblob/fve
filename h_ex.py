@@ -13,8 +13,7 @@ import sys
 import os
 from matplotlib import pyplot as plt
 
-# arg0 is python and arg1 is fve2.py
-print("FingerVeinExtractor v1.0")
+print("HandVeinExtractor v1.0")
 print("Usage: python3 fve2.py <path to veinimage-input> <path to veinimage-output> <v for verbose output, "
       "blank for processing only>")
 
