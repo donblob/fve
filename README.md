@@ -1,5 +1,5 @@
-# requirement
-opencv_python==3.3.0.10
+# requirements
+opencv_python==3.3.0.10 
 matplotlib==2.1.0
 
 # fve
