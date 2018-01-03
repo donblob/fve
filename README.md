@@ -10,4 +10,4 @@ usage: python3 fve.py
 # h_ex
 python script to extract hand vein pattern
 
-usage: python3 fve2.py <path to veinimage-input> <path to veinimage-output> <v for verbose output, blank for processing only>
+usage: python3 h_ex.py <path to veinimage-input> <path to veinimage-output> <v for verbose output, blank for processing only>
