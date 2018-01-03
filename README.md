@@ -5,7 +5,7 @@ matplotlib==2.1.0
 # f_ex
 python script to extract finger vein pattern
 
-usage: python3 fve.py
+usage: python3 f_ex.py \<path to veinimage-input\> \<path to veinimage-output\> \<v for verbose output, blank for processing only\>
 
 # h_ex
 python script to extract hand vein pattern
