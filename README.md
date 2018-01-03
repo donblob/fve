@@ -3,7 +3,7 @@ opencv_python==3.3.0.10
 matplotlib==2.1.0
 
 # fve
-python script to extract finger vein pattern from images
+python script to extract finger vein pattern
 
 usage: python3 fve.py
 
