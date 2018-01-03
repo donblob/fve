@@ -1,6 +1,6 @@
 #### requirements
-* opencv_python==3.3.0.10 
-* matplotlib==2.1.0
+* opencv_python 3.3.0.10 
+* matplotlib 2.1.0
 
 #### f_ex.py
 python script to extract finger vein pattern
