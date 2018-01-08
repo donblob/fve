@@ -42,7 +42,8 @@ else:
     output_file = sys.argv[2]
 
     # load images
-    img = cv2.imread(input_file, 0)
+    input_image = cv2.imread(input_file, 0)
+    img = cv2.flip(input_image, 1)
 
     # get image parameters
     height, width = img.shape[:2]
